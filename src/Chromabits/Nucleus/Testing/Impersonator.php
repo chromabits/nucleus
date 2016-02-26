@@ -67,7 +67,7 @@ class Impersonator extends BaseObject
      * Be aware that complex classes might not be resolved automatically.
      * For example, scalar types are currently not supported.
      *
-     * @param mixed $target
+     * @param string $target
      *
      * @throws ResolutionException
      * @return mixed

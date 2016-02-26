@@ -86,7 +86,7 @@ if (!function_exists('mb_ucwords')) {
      * @param string $delimiters
      * @param null|string $encoding
      *
-     * @return mixed|string
+     * @return string
      */
     function mb_ucwords($str, $delimiters = " \t\r\n\f\v", $encoding = null)
     {

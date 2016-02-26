@@ -13,7 +13,6 @@ use Chromabits\Nucleus\Control\Maybe;
 use Chromabits\Nucleus\Data\ArrayList;
 use Chromabits\Nucleus\Data\ArrayMap;
 use Chromabits\Nucleus\Data\Interfaces\LeftKeyFoldableInterface;
-use Chromabits\Nucleus\Data\Interfaces\MapInterface;
 use Chromabits\Nucleus\Data\Iterable;
 use Chromabits\Nucleus\Exceptions\CoreException;
 use Chromabits\Nucleus\Foundation\BaseObject;

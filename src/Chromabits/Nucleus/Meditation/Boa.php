@@ -270,7 +270,7 @@ class Boa extends BaseObject
     }
 
     /**
-     * @return LeftFoldableConstraint
+     * @return FoldableConstraint
      */
     public static function foldable()
     {
