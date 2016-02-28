@@ -4,8 +4,6 @@ namespace Chromabits\Nucleus\Data;
 
 use ArrayAccess;
 use Chromabits\Nucleus\Control\Maybe;
-use Chromabits\Nucleus\Data\Interfaces\ListInterface;
-use Chromabits\Nucleus\Data\Interfaces\MapInterface;
 use Chromabits\Nucleus\Foundation\BaseObject;
 
 /**
