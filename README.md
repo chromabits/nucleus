@@ -1,3 +1,5 @@
+> DEPRECATED: This package is no longer maintained. It has been replaced by https://github.com/sellerlabs/nucleus.
+
 # Nucleus [![Build Status](https://travis-ci.org/chromabits/nucleus.svg?branch=master)](https://travis-ci.org/chromabits/nucleus) ![](https://img.shields.io/packagist/v/chromabits/nucleus.svg) [![](https://img.shields.io/badge/ApiGen-reference-blue.svg)](http://chromabits.github.io/nucleus)
 
 A standalone PHP utility library. Inspired heavily by similar projects like libphutil. Currently used in personal and work projects. Designed to make working wth PHP a little bit nicer and predictable.
