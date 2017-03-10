@@ -56,7 +56,7 @@ class IconButton implements RenderableInterface, SafeHtmlProducerInterface
     /**
      * Render the object into a string.
      *
-     * @return mixed
+     * @return string
      */
     public function render()
     {

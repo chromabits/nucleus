@@ -211,7 +211,7 @@ class AwesomeIcon extends BaseObject implements
     /**
      * Render the object into a string.
      *
-     * @return mixed
+     * @return string
      */
     public function render()
     {
